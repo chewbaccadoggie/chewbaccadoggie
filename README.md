@@ -1,5 +1,5 @@
 
-👋 Hi there! I'm [Your Name], a final year MBBS student with a knack for blending medicine with technology. I'm on a mission to develop projects and apps that could make a real difference in the medical world.
+👋 Hi there! I'm Animesh Verma, a final year MBBS student with a knack for blending medicine with technology. I'm on a mission to develop projects and apps that could make a real difference in the medical world.
 
 🌟 My passion lies in finding ways to use tech to improve patient care and make life easier for healthcare professionals. Whether it's analyzing medical data or creating platforms for virtual consultations, I'm all in.
 
